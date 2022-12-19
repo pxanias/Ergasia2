@@ -1,0 +1,4 @@
+interface Comparable  {
+
+    //void compareTo();
+}
